@@ -1,0 +1,735 @@
+.p1{
+    
+  background-color:rgb(47, 113, 199);
+  text-align: center;
+  width: 97.02%;
+  padding: 25px;
+  color: white;
+
+  
+}
+img{
+  position: absolute;
+  top: 27px;
+  left:15%;
+  width: 217px;
+  height: 50px;
+}
+.pos{
+  position: absolute;
+  top: 33px;
+  left:69%;
+}
+input{
+  width: 100px;
+  height: 30px;
+  text-align: center;
+}
+.head2{
+   position: absolute;
+  top: 85px;
+  border: 50px solid whitesmoke;
+  width: 93%;
+}
+.saylogo{
+  position: absolute;
+  top: -40px;
+  width: 240px;
+  height: 70px;
+  left:190px
+}
+.a{
+  position: absolute;
+  top:110px;
+  left:44%;
+  background-color:rgb(47, 113, 199);
+  width: 80px;
+  height: 35px;
+  border-radius: 80px;
+  border-style: hidden;
+  color: white;
+  cursor: pointer;
+}
+#abo{
+  position: absolute;
+  top:110px;
+  left:50%;
+  height: 35px;
+  width:68px;
+  border-style: hidden;
+  background-color: whitesmoke;
+  cursor: pointer;
+  border-radius: 80px;
+  border-style: hidden;
+  color: black;
+  
+}
+#abo:hover{
+  background-color:rgb(47, 113, 199) ;
+}
+#sse{
+  position: absolute;
+  top:110px;
+  left:55%;
+  height: 35px;
+  width:134px;
+  border-style: hidden;
+  background-color: whitesmoke;
+  cursor: pointer;
+  border-radius: 80px;
+  border-style: hidden;
+  color: black; 
+}
+ #sse:hover{
+  background-color:rgb(47, 113, 199) ; 
+}
+#fpr{
+  position: absolute;
+  top:110px;
+  left:64%;
+  height: 35px;
+  width:120px;
+  border-style: hidden;
+  background-color: whitesmoke;
+  cursor: pointer;
+  border-radius: 80px;
+  border-style: hidden;
+  color: black;
+}
+#fpr:hover{
+  background-color:rgb(47, 113, 199) ; 
+}
+.b{
+  position: absolute;
+  top:110px;
+  left:72%;
+  width: 80px;
+  height: 35px;
+  border-radius: 80px;
+  border-style: hidden;
+  color: black;
+  cursor: pointer;
+  background-color: whitesmoke;
+}
+.b:hover{
+  background-color:rgb(47, 113, 199) ;
+}
+.c{
+  position: absolute;
+  top:110px;
+  left:77%;
+  width: 80px;
+  height: 35px;
+  border-radius: 80px;
+  border-style: hidden;
+  color: black;
+  cursor: pointer;
+  background-color: whitesmoke;
+}
+.c:hover{
+  background-color:rgb(47, 113, 199) ;
+}
+#sdo{
+  position: absolute;
+  top:110px;
+  left:83%;
+  height: 35px;
+  width:92px;
+  border-style: hidden;
+  background-color: whitesmoke;
+  cursor: pointer;
+  border-radius: 80px;
+  border-style: hidden;
+  color: black; 
+}
+#sdo:hover{
+  background-color:rgb(47, 113, 199) ; 
+}
+.edi{
+
+position: absolute;
+  top:185px;
+  height: 450px;
+  left:0%;
+  width:1580px;
+}
+.head3{
+  position: absolute;
+  top:648px;
+}
+.p2{
+  background-color:rgb(47, 113, 199);
+  text-align: center;
+  color: white;
+  position: absolute;
+  height: 20px;
+  width: 1300px;
+  margin: 0px auto 0px auto;
+  left: 128px;
+  padding: 10px;
+}
+.p2 strong{
+  color: lime;
+}
+
+.intro{
+  position: absolute;
+  top: 40px;
+  left: 640px;
+  width: 370px;
+  height: 120px; 
+}
+.lp{
+  position: absolute;
+  top: 160px;
+  width: 1000px;
+  left: 300px;
+  font-size: large;
+  color: grey;
+}
+.head4{
+  position: absolute;
+ top: 650px;
+ border: 150px solid rgb(47, 113, 199) ;
+ width: 1275px;
+}
+.ifo{
+    position: absolute;
+    top: -80px;
+    width: 50px;
+    left:130px;
+}
+.ifa{
+  position: absolute;
+  top: -80px;
+  width: 50px;
+  left:450px;
+}
+.icm{
+  position: absolute;
+  top: -80px;
+  width: 50px;
+  left:730px;
+}
+.ice{
+  position: absolute;
+  top: -80px;
+  width: 50px;
+  left:1000px;
+}
+.dd{
+  position: absolute;
+  top:-75px;
+  color: white;
+  font-size: 350%;
+  left:60px
+  
+}
+.dd b{
+  color: white;
+  font-size: 30%;
+  position: relative;
+  top:43px;
+  left: -250px;
+}
+.dd strong{
+  position:absolute;
+  top: 75px;
+  font-size: 35%;
+  left: 122px;
+  color:rgba(64, 255, 0, 0.906);
+}
+.fad{
+  position: absolute;
+  top:-75px;
+  color: white;
+  left:400px ;
+  font-size: 350%;
+}
+.fad b{
+  color: white;
+  font-size: 30%;
+  position: relative;
+  top:43px;
+  left: -180px;
+}
+.fad strong{
+  position:absolute;
+  top: 75px;
+  font-size: 35%;
+  left: 120px;
+  color:rgba(64, 255, 0, 0.906);
+}
+.ms
+{
+  position: absolute;
+  top:-75px;
+  color: white;
+  left:690px ;
+  font-size: 350%;
+}
+.ms b{
+  color: white;
+  font-size: 30%;
+  position: relative;
+  top:43px;
+  left: -170px;
+}
+.ms strong{
+  position: absolute;
+  top:75px;
+  font-size:35%;
+  color:rgba(64, 255, 0, 0.906);
+  left:80px;
+}
+.sedu{
+  position: absolute;
+  top:-75px;
+  color: white;
+  left:940px ;
+  font-size: 350%;
+}
+.sedu b{
+  color: white;
+  font-size: 30%;
+  position: relative;
+  top:43px;
+  left: -190px; 
+}
+.sedu strong{
+  position: absolute;
+  top:75px;
+  font-size:35%;
+  color:rgba(64, 255, 0, 0.906);
+  left:108px;
+}
+.wwd{
+  position: absolute;
+  top: 970px;
+  width: 700px;
+  text-align: center;
+  left: 400px;
+  font-size: 250%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.wwd b{
+  
+  color: royalblue;
+}
+.wwd strong {
+  color: #4A7023	;
+}
+.wwda{
+  position: absolute;
+  top: 1057px;
+  left:625px;
+  width: 260px;
+  
+}
+ .fbt{
+  position: absolute;
+  top:1120px;
+  width: 1200px;
+  
+  margin: 10px 187px;
+  border-spacing: 20px 20px;
+}
+ .fbth{
+   background-color: white;
+   border: 1px solid whitesmoke;
+   width: 140px;
+   height: 182px;
+   box-shadow: 5px 3px 28px lightgrey;
+   
+  
+}
+.imc{
+  position: absolute;
+  top: 55px;
+  left: 960px;
+  width: 75px;
+  height: 70px;
+}
+.imca{
+  position: absolute;
+  top: 125px;
+  left: 955px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.osd{
+  position: absolute;
+  top: 55px;
+  left: 165px;
+  width: 75px;
+  height: 70px;
+}
+.osda{
+  position: absolute;
+  top: 125px;
+  left: 130px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.sw{
+  position: absolute;
+  top: 55px;
+  left: 553px;
+  width: 75px;
+  height: 70px;
+}
+.swa{
+  position: absolute;
+  top: 125px;
+  left: 545px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.ds{
+  position: absolute;
+  top:280px;
+  left: 166px;
+  width: 75px;
+  height: 70px;
+}
+.dsa{
+  position: absolute;
+  top: 335px;
+  left: 132px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.rop{
+  position: absolute;
+  top:280px;
+  left: 555px;
+  width: 75px;
+  height: 70px;
+}
+.ropa{
+  position: absolute;
+  top: 335px;
+  left: 555px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.ed{
+  position: absolute;
+  top:280px;
+  left: 961px;
+  width: 75px;
+  height: 70px;
+}
+.eda{
+  position: absolute;
+  top: 335px;
+  left: 947px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.container1{
+  position: absolute;
+  top: 80px;
+  border:1px solid whitesmoke;
+  background-color:whitesmoke;
+  height: 600px;
+  width: 1572px;
+}
+.container2{
+  position: absolute;
+  top: 950px;
+  border:1px solid whitesmoke;
+  background-color:whitesmoke;
+  height: 655px;
+  width: 1572px;
+}
+.fbsp{
+  color: royalblue;
+  font-weight: bold;
+  font-size: xx-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  top: 1450px;
+  width: 1000px;
+  margin: 210px;
+ }
+.fbtl{
+  position: relative;
+  top: 1690px;
+  border: 1px solid #4A7023	;
+  background-color:  #4A7023;
+  left: 211px;
+  width: 50px;
+}
+.ue{
+  color: royalblue;
+  font-weight: bold;
+  font-size: xx-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  top: 1630px;
+  width: 1000px;
+  left: 1000px;
+ }
+.uel{
+  position: relative;
+  top: 1673px;
+  border: 1px solid #4A7023	;
+  background-color:  #4A7023;
+  left: 1000px;
+  width: 50px;
+}
+.uela{
+  position: absolute;
+  top: 1692px;
+  border: 0.1px solid rgba(128, 128, 128, 0.404);
+  left: 1000px;
+  width: 368px;
+}
+.uem{
+  position: absolute;
+  top: 1700px;
+  color:grey;
+  left: 1000px;
+  width: 200px;
+}
+.uemb{
+  color: royalblue;
+  font-weight: initial;
+}
+.fbs{
+  position: absolute;
+  top: 1720px;
+  margin: 10px 192px;
+  width: 800px;
+  border-spacing: 20px;
+
+}
+
+ .fsth{
+  background-color: whitesmoke;
+  border: 1px solid lightgray;
+  width:52px;
+  height: 80px; 
+}
+.hep{
+  position: absolute;
+  top:35px;
+  left: 40px;
+  width: 40px;
+  height: 40px;
+}
+.hepa{
+  position: absolute;
+  top: 30px;
+  left: 100px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.hs{
+  position: absolute;
+  top:35px;
+  left: 430px;
+  width: 40px;
+  height: 40px;
+}
+.hsa{
+  position: absolute;
+  top: 30px;
+  left: 500px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.it{
+  position: absolute;
+  top:145px;
+  left: 40px;
+  width: 40px;
+  height: 40px;
+}
+.ita{
+  position: absolute;
+  top: 140px;
+  left: 100px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.th{
+  position: absolute;
+  top:145px;
+  left:430px;
+  width: 40px;
+  height: 40px;
+}
+.tha{
+  position: absolute;
+  top: 140px;
+  left: 500px;
+ font-size:larger;
+ color: royalblue;
+ font-weight: bold;
+}
+.ig{
+  position: absolute;
+  top: 2050px;
+  width: 700px;
+  text-align: center;
+  left: 400px;
+  font-size: 250%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ig b{
+  
+  color: royalblue;
+}
+.ig strong {
+  color: #4A7023	;
+}
+.iga{
+  position: absolute;
+  top: 2150px;
+  left:620px;
+  width: 260px;
+}
+.ras{
+  position: absolute;
+  top: 2220px;
+  left:200px;
+  width: 240px;
+  height: 150px;
+}
+.fod{
+  position: absolute;
+  top: 2220px;
+  left:442px;
+  width: 240px;
+  height: 150px;
+}
+.haz{
+  position: absolute;
+  top: 2220px;
+  left:684px;
+  width: 240px;
+  height: 150px;
+}
+.ras2{
+  position: absolute;
+  top: 2220px;
+  left:925px;
+  width: 240px;
+  height: 150px;
+}
+.haz2{
+  position: absolute;
+  top: 2220px;
+  left:1167px;
+  width: 240px;
+  height: 150px;
+}
+.bb{
+  position: absolute;
+  top: 2540px;
+  border: 1px solid black;
+  background-color:#25272e;
+  width: 1570px;
+  height: 300px;
+}
+.li1{
+  position:absolute;
+  top: 2625px;
+  list-style-type:none;
+  color: #bbb;
+  width: 500px;
+  left: 165px;
+}
+.scl{
+  position: absolute;
+  top: 2640;
+}
+.usl{
+  position: absolute;
+  top: 2600px;
+  left: 620px;
+  width: 800px;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+.usll{
+  position: absolute;;
+  top: 2634.49px;
+  border: 1px solid #4A7023	;
+  background-color:  #4A7023;
+  left: 620px;
+  width: 50px;
+}
+.uslla{
+  position: absolute;
+  top: 2635.10px;
+  border: 0.1px solid rgba(128, 128, 128, 0.404);
+  left: 671px;
+  width: 317px;
+}
+.cwu{
+  position: absolute;
+  top: 2600px;
+  left: 1010px;
+  width: 800px;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+.fbi{
+  position: absolute;
+  top: 2650px;
+  left: 1005px;
+  width: 33px;
+  height: 33px;
+}
+.twi{
+  position: absolute;
+  top: 2652px;
+  left: 1047px;
+  width: 28px;
+  height: 28px;
+}
+.ini{
+  position: absolute;
+  top: 2652px;
+  left: 1087px;
+  width: 30px;
+  height: 30px;
+}
+.yoi{
+  position: absolute;
+  top: 2652px;
+  left: 1127px;
+  width: 28px;
+  height: 28px;
+}
+.cor{
+  position: absolute;
+  top: 2842px;
+  border: 20px solid royalblue;
+  background-color:rgb(47, 113, 199);
+  width: 1533px;
+}
+.cora{
+  position: absolute;
+  top: 2848px;
+  color: white;
+  width: 300px;
+  left: 200px;
+  padding: 2px;
+}
+
+
